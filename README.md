@@ -15,7 +15,7 @@ A variety of NCBI Computational Tools Distributed as Jupyter Notebooks
 
 
 # Overview Diagram
-![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/master/case_study.pdf)
+![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/master/case_study.png)
 
 
 
