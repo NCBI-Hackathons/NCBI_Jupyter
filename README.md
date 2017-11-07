@@ -21,6 +21,11 @@ Disease surveillance research has led to the genome sequencing of many thousands
 
 
 ### Project Team:
+Ray Anderson
+Richard Copin 
+Evgeny Ivanchenko
+Victor Joukov
+Lon Phan
 
 
 
