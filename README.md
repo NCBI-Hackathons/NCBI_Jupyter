@@ -28,6 +28,13 @@ Disease surveillance research has led to the genome sequencing of many thousands
 * Lon Phan
 
 ## Example screenshots
+
+Organism Identification from de novo reconstituted contigs
+![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Organism_identification.png)
+
+EUtils Quick Start with BioPython examples
+![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Organism_identification.png)
+
 List of genes using Eutils and NCBI services (Portal, Entrez, ...)
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/gene_list.png)
 
