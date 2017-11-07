@@ -33,7 +33,7 @@ Organism Identification from de novo reconstituted contigs
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Organism_identification.png)
 
 EUtils Quick Start with BioPython examples
-![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Organism_identification.png)
+![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/EUtils1.png)
 
 List of genes using Eutils and NCBI services (Portal, Entrez, ...)
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/gene_list.png)
