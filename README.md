@@ -10,7 +10,7 @@ Disease surveillance research has led to the genome sequencing of many thousands
 ### Dependencies:
 * Python 3 (packages such as BioPython, Macplotlib, Pandas)
 * Jupyter Notebook
-
+* Eutils Python Package
 
 # Case Study
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/case_study.png)
@@ -28,7 +28,7 @@ Disease surveillance research has led to the genome sequencing of many thousands
 * Lon Phan
 
 ## Example screenshots
-List of genes
+List of genes using Eutils and NCBI services (Portal, Entrez, ...)
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/gene_list.png)
 
 
