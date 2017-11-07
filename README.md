@@ -12,12 +12,8 @@ Disease surveillance research has led to the genome sequencing of many thousands
 * Jupyter Notebook
 * Eutils Python Package
 
-# Case Study
+# Case Study and Methods
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/case_study.png)
-
-### Method:
-
-
 
 
 ### Project Team:
