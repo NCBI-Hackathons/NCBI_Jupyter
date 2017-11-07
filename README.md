@@ -7,6 +7,7 @@ Poor documentation leads to poor understanding of a software. It is difficult to
     .
     ├── NoteBooks               # Jupyter notebooks
     ├── Scripts                 # Scripts and tutorials
+    ├── Images
     └── README.md
 
 ## Dependencies:
