@@ -6,9 +6,8 @@ Poor documentation leads to poor understanding of a software. It is difficult to
 ### directory layout
 
     .
-    ├── NoteBooks               # Jupyter notebooks
-    ├── Scripts                 # Scripts and tutorials
-    ├── Images
+    ├── NoteBooks               # Jupyter notebooks                
+    ├── Images                  # Screenshots and Presentations
     └── README.md
 
 ## Dependencies:
