@@ -31,7 +31,7 @@ Victor Joukov  - Organism Identification from de novo reconstituted contigs
 Ray Anderson - EUtils Quick Start with BioPython examples
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/EUtils1.png)
 
-Evgeny Ivanchenko - List of genes using Eutils and NCBI services (Portal, Entrez, ...)
+Evgeny Ivanchenko - List of proteins using Eutils and NCBI services (Portal, Entrez, ...)
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/gene_list.png)
 
 
