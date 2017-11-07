@@ -1,3 +1,4 @@
+![My image](https://github.com/NCBI-Hackathons/Jupyter_Manifest/blob/master/ncbi-jupiter.jpg)
 # Designing Educational Experiences with Jupyter Notebooks:
 ## A variety of NCBI Computational Tools Distributed as Jupyter Notebooks
 Poor documentation leads to poor understanding of a software. It is difficult to interpret other researchers' code without unequivocal documentation. Jupyter Notebook combines code and rich-text elements which allows the user to effectively learn, modify, and run the notebook.
