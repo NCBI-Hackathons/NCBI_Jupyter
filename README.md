@@ -5,10 +5,11 @@ Poor documentation leads to poor understanding of a software. It is difficult to
 
 ### Directory layout
 
-    .
-    ├── NoteBooks               # Jupyter notebooks                
-    ├── Images                  # Screenshots and Presentations
-    └── README.md
+* Root
+* └──[NoteBooks](/NoteBooks)               # Jupyter notebooks  
+    * └──[get-list-of-genes.ipynb](/NoteBooks/get-list-of-genes.ipynb)  
+* └──Images                  # Screenshots and Presentations
+* └── README.md
 
 ## Dependencies:
 * Python 3 (packages such as BioPython, Macplotlib, Pandas)
