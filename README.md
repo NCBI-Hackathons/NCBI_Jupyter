@@ -28,6 +28,9 @@ Disease surveillance research has led to the genome sequencing of many thousands
 * Lon Phan
 
 ## Example screenshots
+List of genes
+![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/gene_list.png)
+
 
 
 
