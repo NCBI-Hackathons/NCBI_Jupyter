@@ -21,21 +21,21 @@ Disease surveillance research has led to the genome sequencing of many thousands
 
 
 ### Project Team:
-* Ray Anderson
-* Richard Copin 
-* Evgeny Ivanchenko
-* Victor Joukov
-* Lon Phan
+* Ray Anderson (developer)
+* Richard Copin (writer / developer)
+* Evgeny Ivanchenko (system admin)
+* Victor Joukov (developer)
+* Lon Phan (team lead)
 
 ## Example screenshots
 
-Organism Identification from de novo reconstituted contigs
+Victor Joukov  - Organism Identification from de novo reconstituted contigs
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Organism_identification.png)
 
-EUtils Quick Start with BioPython examples
+Ray Anderson - EUtils Quick Start with BioPython examples
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/EUtils1.png)
 
-List of genes using Eutils and NCBI services (Portal, Entrez, ...)
+Evgeny Ivanchenko - List of genes using Eutils and NCBI services (Portal, Entrez, ...)
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/gene_list.png)
 
 
