@@ -23,17 +23,8 @@ The team develops tutorials explaining how to install, run, and use Jupyter Note
 * BioPython
 * XML.etree Package
 
-### Azure notebooks
-All notebooks could be tried-out from azure notebooks: https://notebooks.azure.com/eiva/libraries/NCBInotebook
-
-#### Prerequirements:
-You may be required to install biopython package: create cell and type
-```
-!pip install biopython
-```
-
-### Manual Jupyther setup instruction
-Install requred packages
+### Jupyter setup instruction on your own server
+Install required packages
 ```
 pip install jupyter
 pip install ipywidgets
@@ -42,7 +33,7 @@ pip install jupyter_nbextensions_configurator
 pip install biopython
 pip install requests
 ```
-Than configure it
+Then configure it
 ```
 mkdir notebooks
 cd notebooks/
