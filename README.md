@@ -72,10 +72,10 @@ Disease surveillance research has led to the genome sequencing of many thousands
    --Basic functions of E-utils to retreive biological information from NCBI--
    
 	Organism_identification_with_BLAST.ipynb
-   --Identification of the closest assembly genome to the query--
+   --Identification of the closest assembly genome to a fasta query--
    
 	get-list-of-genes_alt.ipynb
-   --Generate a table with the list of genes and annotated products of an assembly--  
+   --Generates a table with the list of genes and annotated products of a particular assembly--  
 
 # See also:
 https://github.com/NCBI-Hackathons/NCBIComputationalCookbook
