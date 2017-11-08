@@ -6,6 +6,12 @@ Poor documentation leads to poor understanding of a software. It is difficult to
 ## Mission
 The team develops tutorials explaining how to install, run, and use Jupyter Notebooks with NBCI bioinformatic tools, including tips, best practices, and examples.  The Jupyter notebooks contain live codes, equations, visualizations as well as text that can be modified and shared by users and are ideal tools to help gain familiarity with NCBI tools and data science skills.
 
+### Project Team:
+* Ray Anderson (developer)
+* Richard Copin (writer / developer)
+* Evgeny Ivanchenko (system admin)
+* Victor Joukov (developer)
+* Lon Phan (team lead)
 
 ### Directory layout
 
@@ -49,6 +55,10 @@ jupyter notebook --no-browser --port=32888 --ip=0.0.0.0
 ```
 Now it could be accessed by `http://localhost:32888`
 
+### Clone and run private instance on Microsoft azure 
+Click on the link below and clone the notebook into your Azure account (register free if required)
+https://notebooks.azure.com/eiva/libraries/NCBInotebook
+
 # Case Study
 ## Case 1
  
@@ -57,12 +67,7 @@ Disease surveillance research has led to the genome sequencing of many thousands
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/case_study.png)
 
 
-### Project Team:
-* Ray Anderson (developer)
-* Richard Copin (writer / developer)
-* Evgeny Ivanchenko (system admin)
-* Victor Joukov (developer)
-* Lon Phan (team lead)
+
 
 ## Example screenshots
 
