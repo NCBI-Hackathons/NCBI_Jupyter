@@ -65,6 +65,8 @@ https://notebooks.azure.com/eiva/libraries/NCBInotebook
  
 Disease surveillance research has led to the genome sequencing of many thousands of isolates. However, the annotation of these genome sequences is not straitghforward and often does not provide researchers with a complete set of information. Here, we present a computational pipeline to compare de novo sequence contigs to the set of complete RefSeq genomes for i) determining appropriate reference genome for whole-genome alignment, ii) proving a clean list of genes and annoated proteins and iii) and highlighting sets of genes invlovled in antibiotic resistance and virulence. We demonstrate our pipeline using data from S. aureus as a paradigm, owing to its high sequence variability, and therefore less well-curated genomic sequences in public databases.
 
+![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/case_study.png)
+
 ### NoteBooks for this case:
  	E-Utilities Quick Start with BioPython examples.ipynb 
    --Basic functions of E-utils to retreive biological information from NCBI--
@@ -74,10 +76,6 @@ Disease surveillance research has led to the genome sequencing of many thousands
    
 	get-list-of-genes_alt.ipynb
    --Generate a table with the list of genes and annotated products of an assembly--  
-
-
-![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/case_study.png)
-
 
 # See also:
 https://github.com/NCBI-Hackathons/NCBIComputationalCookbook
