@@ -29,7 +29,7 @@ The team develops tutorials explaining how to install, run, and use Jupyter Note
 * BioPython
 * XML.etree Package
 
-### Jupyter setup instruction on your own server
+### Jupyter setup instructions on your own server
 Install required packages
 ```
 pip install jupyter
@@ -39,7 +39,7 @@ pip install jupyter_nbextensions_configurator
 pip install biopython
 pip install requests
 ```
-Then configure it
+Then configure
 ```
 mkdir notebooks
 cd notebooks/
@@ -49,7 +49,7 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter contrib nbextension install --user
 jupyter nbextensions_configurator enable --user
 ```
-And now run
+And now you're ready to run!
 ```
 jupyter notebook --no-browser --port=32888 --ip=0.0.0.0
 ```
@@ -59,19 +59,17 @@ Now it could be accessed by `http://localhost:32888`
 Click on the link below and clone the notebook into your Azure account (register free if required)
 https://notebooks.azure.com/eiva/libraries/NCBInotebook
 
-# Case Study
+# Case Studies
+
 ## Case 1
  
 Disease surveillance research has led to the genome sequencing of many thousands of isolates. However, the annotation of these genome sequences is not straitghforward and often does not provide researchers with a complete set of information. Here, we present a computational pipeline to compare de novo sequence contigs to the set of complete RefSeq genomes for i) determining appropriate reference genome for whole-genome alignment, ii) proving a clean list of genes and annoated proteinsand iii) and highlitghing sets of genes invlovled in antibiotic resistance and virulence. We demonstrate our pipeline using data from S. aureus as a paradigm, owing to its high sequence variability, and therefore less well-curated genomic sequences in public databases.
 
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/case_study.png)
 
-
-
-
 ## Example screenshots
 
-Victor Joukov  - Organism Identification from de novo reconstituted contigs
+Victor Joukov - Organism Identification from de novo reconstituted contigs
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/Organism_identification.png)
 
 Ray Anderson - EUtils Quick Start with BioPython examples
