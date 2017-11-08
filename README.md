@@ -23,6 +23,32 @@ The team develops tutorials explaining how to install, run, and use Jupyter Note
 * BioPython
 * XML.etree Package
 
+### Jupyther setup instruction
+Install requred packages
+```
+pip install jupyter
+pip install ipywidgets
+pip install jupyter_contrib_nbextensions
+pip install jupyter_nbextensions_configurator
+pip install biopython
+pip install requests
+```
+Than configure it
+```
+mkdir notebooks
+cd notebooks/
+jupyter notebook --generate-config
+jupyter notebook password  # Enter your password at this step
+jupyter nbextension enable --py widgetsnbextension
+jupyter contrib nbextension install --user
+jupyter nbextensions_configurator enable --user
+```
+And now run
+```
+jupyter notebook --no-browser --port=32888 --ip=0.0.0.0
+```
+Now it could be accessed by `http://localhost:32888`
+
 # Case Study
 ## Case 1
  
