@@ -3,6 +3,10 @@
 ## A variety of NCBI Computational Tools Distributed as Jupyter Notebooks
 Poor documentation leads to poor understanding of a software. It is difficult to interpret other researchers' code without unequivocal documentation. Jupyter Notebook combines code and rich-text elements which allows the user to effectively learn, modify, and run the notebook.
 
+## Significance
+The team develops tutorials explaining how to install, run, and use Jupyter Notebooks with NBCI bioinformatic tools, including tips, best practices, and examples.  The Jupyter notebooks contain live codes, equations, visualizations as well as text that can be modified and shared by users and are ideal tools to help gain familiarity with NCBI tools and data science skills.
+
+
 ### Directory layout
 
 * Root
