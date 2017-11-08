@@ -1,7 +1,7 @@
 ![My image](https://github.com/NCBI-Hackathons/Jupyter_Manifest/blob/master/Images/logo.jpg)
 # Designing Educational Experiences with Jupyter Notebooks:
 ## A variety of NCBI Computational Tools Distributed as Jupyter Notebooks
-Poor documentation leads to poor understanding of a software. It is difficult to interpret other researchers' code without unequivocal documentation. Jupyter Notebook combines code and rich-text elements which allows the user to effectively learn, modify, and run the notebook.
+Poor documentation leads to poor understanding of software. It is difficult to interpret other researchers' code without unequivocal documentation. Jupyter Notebook combines code and rich-text elements which allows the user to effectively learn, modify, and run the notebook.
 
 ## Mission
 The team develops tutorials explaining how to install, run, and use Jupyter Notebooks with NBCI bioinformatic tools, including tips, best practices, and examples.  The Jupyter notebooks contain live codes, equations, visualizations as well as text that can be modified and shared by users and are ideal tools to help gain familiarity with NCBI tools and data science skills.
@@ -63,11 +63,11 @@ https://notebooks.azure.com/eiva/libraries/NCBInotebook
 
 ## Case 1
  
-Disease surveillance research has led to the genome sequencing of many thousands of isolates. However, the annotation of these genome sequences is not straitghforward and often does not provide researchers with a complete set of information. Here, we present a computational pipeline to compare de novo sequence contigs to the set of complete RefSeq genomes for i) determining appropriate reference genome for whole-genome alignment, ii) proving a clean list of genes and annoated proteinsand iii) and highlitghing sets of genes invlovled in antibiotic resistance and virulence. We demonstrate our pipeline using data from S. aureus as a paradigm, owing to its high sequence variability, and therefore less well-curated genomic sequences in public databases.
+Disease surveillance research has led to the genome sequencing of many thousands of isolates. However, the annotation of these genome sequences is not straitghforward and often does not provide researchers with a complete set of information. Here, we present a computational pipeline to compare de novo sequence contigs to the set of complete RefSeq genomes for i) determining appropriate reference genome for whole-genome alignment, ii) proving a clean list of genes and annoated proteins and iii) and highlighting sets of genes invlovled in antibiotic resistance and virulence. We demonstrate our pipeline using data from S. aureus as a paradigm, owing to its high sequence variability, and therefore less well-curated genomic sequences in public databases.
 
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/case_study.png)
 
-## Example screenshots
+## Examples
 
 Victor Joukov - Organism Identification from de novo reconstituted contigs
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/Organism_identification.png)
