@@ -11,7 +11,8 @@ The team develops tutorials explaining how to install, run, and use Jupyter Note
 
 * Root
 * └──[NoteBooks](/NoteBooks)               # Jupyter notebooks  
-    * └──[get-list-of-genes.ipynb](/NoteBooks/get-list-of-genes.ipynb)  
+    * └──[get-list-of-genes.ipynb](/NoteBooks/get-list-of-genes.ipynb) #get list of gene features from a sequence
+    * └──[Variations.ipynb](/NoteBooks/Variations.ipynb) #demos for workig with dbSNP SPDI service and JSON object
 * └──Images                  # Screenshots and Presentations
 * └── README.md
 
