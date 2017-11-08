@@ -67,16 +67,7 @@ Disease surveillance research has led to the genome sequencing of many thousands
 
 ![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/case_study.png)
 
-## Examples
 
-Victor Joukov - Organism Identification from de novo reconstituted contigs
-![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/Organism_identification.png)
-
-Ray Anderson - EUtils Quick Start with BioPython examples
-![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/EUtils1.png)
-
-Evgeny Ivanchenko - List of proteins using Eutils and NCBI services (Portal, Entrez, ...)
-![My image](https://github.com/NCBI-Hackathons/NCBIJupyter/blob/master/Images/gene_list.png)
 
 
 
